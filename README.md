@@ -1,2 +1,0 @@
-# shiva
-Document details
